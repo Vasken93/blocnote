@@ -1,6 +1,5 @@
 # Bloc-Note-Android
 
-<p>Bloc-Note-Android is a personal project</p>
 <p>Date : July 2017 <br/></p>
 
 <h3>Project :</h3>
